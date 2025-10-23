@@ -1,3 +1,1 @@
-# Code of Conduct
-
-Be respectful and constructive. Report any issues to maintainers.
+# Code of Conduct\nBe respectful.
